@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- landing_ strings -->
+
+	<string name="app_name">Designs</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="sign_in_and_start_your_airmed_experience_string">Sign InAnd start yourAirmed Experience</string>
+	<string name="usu_rio_string">Usurio</string>
+	<string name="senha_string">Senha</string>
+	<string name="entrar_string">Entrar</string>
+	<string name="ecocycle_string">EcoCycle</string>
+	<string name="local">Av 13 de maio</string>
+</resources>
